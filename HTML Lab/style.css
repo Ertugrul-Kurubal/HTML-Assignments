@@ -1,0 +1,25 @@
+body {
+    background-color: aqua
+}
+
+#firstimage {
+width: 450px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1, h2, p {
+    font-family: "Lobster", cursive;
+    text-align: center;
+}
+
+table {
+    border: 1px solid gray;
+    border-collapse: collapse; /* let comment */
+}
+
+td {
+    border: 1px solid gray;
+    
+}
